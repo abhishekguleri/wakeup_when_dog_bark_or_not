@@ -1,4 +1,4 @@
-# wakup_when_dog_bark_or_not
+# wakeup_when_dog_bark_or_not
 We have a dog that likes to bark.
 We need to wake up if the dog is barking at night! 
 Write a method shouldWakeUp that has 2 parameters.  1st parameter should be of type boolean and be named barking it represents if our dog is currently barking. 
